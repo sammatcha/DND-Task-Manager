@@ -1,12 +1,12 @@
 # DND Todo List
 
 ## Information
-This is a drag and drop to do list. Maybe it'll be be DND themed.
+This is a drag and drop task manager
   ##### Tech Used:
-- Vite
 - React
-- Typescript
 - Tailwind CSS
+- Typescript
+- Vite
 
 #### Setup
 1. Install Vite to project <br>
@@ -21,9 +21,15 @@ npx tailwindcss init -p
 
 
 ### Road Map
-- [ ] Implement delete, edit
-- [ ] Make it visually appealing
-- [ ] Drag capabilities
+- [ ] Edit
+- [ ] Work on colors
+- [ ] Local Storage
+- [ ] Add fonts
+- [ ] Color coding
+- [ ] Priority levels
+- [X] Implement delete
+- [X] Work on front-end
+- [X] Drag capabilities
 
 
 
