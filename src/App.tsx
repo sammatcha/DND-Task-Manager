@@ -4,7 +4,7 @@ import ToDoWrapper from './components/ToDoWrapper'
 
 export default function App () {
   return (
-    <div className='container'>
+    <div className='min-h-screen  overflow-hidden  '>
       <ToDoWrapper/>
    </div>
   )
